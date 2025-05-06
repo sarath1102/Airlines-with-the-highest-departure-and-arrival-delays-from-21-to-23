@@ -1,5 +1,3 @@
-# Airlines-with-the-highest-departure-and-arrival-delays-from-21-to-23
-
 # Airline Delays Analysis (2021-2023)
 
 ## 📊 Project Overview
